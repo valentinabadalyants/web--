@@ -633,7 +633,7 @@ body {
    /* 25% {top:-5px; left: -10px;}
   50% { top:0px; left: 0px; } */
   75% {opacity: 1;}
-  100% {opacity: 0; scale: 2; top:1.39vw; left:1.39vw; filter: blur(5px)}
+  100% {opacity: 0; scale: 2; top:1.39vw; left:1.39vw; filter: blur(3px)}
 }
 .w1 {
   width: 13.89vw;
@@ -667,7 +667,7 @@ body {
   width: 18.75vw;
   height: 2.08vw;
   margin-top: 4.15vw;
-  margin-left: 65.40vw;
+  margin-left: 62.40vw;
   animation: w_1 8s 2s  linear alternate infinite;
 }
 .w6 {
