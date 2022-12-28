@@ -43,3 +43,8 @@
         animation: snowfalling 4s linear infinite;
       }
     }
+    @media (min-width: 1900px)  {
+     .container {
+       max-width: none;
+     }
+   }
